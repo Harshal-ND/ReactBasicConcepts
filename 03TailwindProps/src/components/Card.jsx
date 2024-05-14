@@ -8,7 +8,7 @@ const Card = ({name ="Indian Captain"}) => {
         <>
             <h1 className='text-2xl bg-blue-500 p-3 rounded'>
                 Card for Virat kohli
-
+ 
                 
             </h1>
             <figure class="md:flex bg-slate-100 rounded-xl p-8 md:p-0 dark:bg-slate-800">
