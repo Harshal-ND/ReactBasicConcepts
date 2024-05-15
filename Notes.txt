@@ -1,0 +1,5 @@
+1. npm vs npx
+2. npx create-react-app 01basicreact--> node modules folder is downloaded and installed
+2.a. npm create vite@latest--> node modules is not installed 
+2.a.1 cd 01basicvite 
+2.a.2. npm i  -> node modules will get installed 
